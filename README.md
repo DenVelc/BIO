@@ -1,5 +1,5 @@
 💫About Me
-- 👋 Hi, I’m @CelcDen
+- 👋 Hi, I’m @DenVelc
 - 👀 I’m interested in Excel, Python, SQL, and Data Analytics.
 - 🌱 I’m currently learning data analysis through Coders Lab, focusing on Excel, Python, and SQL.
 - 💼 My background includes project management, process optimization, and strategic communication.
