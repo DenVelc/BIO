@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning data analysis through Coders Lab, focusing on Excel, Python, and SQL.
 - 💼 My background includes project management, process optimization, and strategic communication.
 - 💞️ I’m looking to collaborate on data analytics projects, automation, and visualization.
-- ⚡ Fun fact: I have a dog who is always still hungry, no matter how much he eats. 🐶🍖
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/denvelc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/denvelc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/denvelc/) 
